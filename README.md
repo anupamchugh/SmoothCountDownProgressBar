@@ -10,6 +10,6 @@ This library implements a CircularImageView and a CircularCountDownTimer around 
 			maven { url 'https://www.jitpack.io' }
 		}```
 
-dependencies {
+```dependencies {
 	        compile 'com.github.anupamchugh:SmoothCountDownProgressBar:1.0'
-	}
+	}```
