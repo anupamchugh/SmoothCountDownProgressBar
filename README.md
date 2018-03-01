@@ -8,4 +8,4 @@ This library implements a CircularImageView and a CircularCountDownTimer around 
 # Setup
 ```dependencies {
 	        compile 'com.github.anupamchugh:SmoothCountDownProgressBar:1.0'
-	}```
+	}
